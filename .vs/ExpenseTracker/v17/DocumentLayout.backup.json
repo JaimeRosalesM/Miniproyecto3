@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\gastos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\gastos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\gastos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\gastos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\gastos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\gastos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\gastos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\gastos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\entradas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\entradas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\entradas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\entradas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\entradas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\entradas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\entradas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\entradas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\models\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:models\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\entradas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\entradas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\views\\gastos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:views\\gastos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\expensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:expensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|c:\\users\\juand\\source\\repos\\expensetracker\\migrations\\20250530184016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F3D8B-7DC3-4D05-822F-F71137147240}|ExpenseTracker.csproj|solutionrelative:migrations\\20250530184016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gastos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Details.cshtml",
+              "RelativeToolTip": "Views\\Gastos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T23:42:42.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gastos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Gastos\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T23:42:25.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Entradas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Entradas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:36:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Entradas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Entradas\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T23:17:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Entradas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Entradas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T23:17:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gastos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Gastos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:31:29.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T19:48:35.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Details.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Details.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Details.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T23:11:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T23:10:35.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Entradas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Entradas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:32:28.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gastos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Gastos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:34:43.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:26:55.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Models\\Entrada.cs",
+              "RelativeDocumentMoniker": "Models\\Entrada.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Models\\Entrada.cs",
+              "RelativeToolTip": "Models\\Entrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:36:41.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Models\\Gasto.cs",
+              "RelativeDocumentMoniker": "Models\\Gasto.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Models\\Gasto.cs",
+              "RelativeToolTip": "Models\\Gasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:35:07.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:33:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:19:06.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Entradas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Entradas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Entradas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T23:18:34.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Categorias\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T23:01:33.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:17:27.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EntradasController.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Controllers\\EntradasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EntradasController.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Controllers\\EntradasController.cs",
+              "RelativeToolTip": "Controllers\\EntradasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:15:00.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T21:44:13.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:42:50.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:41:42.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:18:34.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Gastos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Views\\Gastos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Gastos\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T22:11:18.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:30:16.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GastosController.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Controllers\\GastosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GastosController.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Controllers\\GastosController.cs",
+              "RelativeToolTip": "Controllers\\GastosController.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAkwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T20:07:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-30T21:25:55.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T18:24:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExpenseTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\ExpenseTracker.csproj",
+              "RelativeDocumentMoniker": "ExpenseTracker.csproj",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\ExpenseTracker.csproj",
+              "RelativeToolTip": "ExpenseTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T19:01:43.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250530184016_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Migrations\\20250530184016_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250530184016_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\juand\\source\\repos\\ExpenseTracker\\Migrations\\20250530184016_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250530184016_InitialCreate.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:40:22.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
