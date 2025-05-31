@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -31,39 +30,19 @@ namespace ExpenseTracker.Controllers
                 case "diario":
                     gastosQuery = gastosQuery.Where(g => g.Fecha.Date == hoy);
                     break;
-
                 case "semanal":
                     DateTime inicioSemana = hoy.AddDays(-(int)hoy.DayOfWeek + 1);
                     DateTime finSemana = inicioSemana.AddDays(6);
                     gastosQuery = gastosQuery.Where(g => g.Fecha >= inicioSemana && g.Fecha <= finSemana);
                     break;
-
                 case "mensual":
                     gastosQuery = gastosQuery.Where(g => g.Fecha.Month == hoy.Month && g.Fecha.Year == hoy.Year);
-                    break;
-
-                case "total":
-                default:
                     break;
             }
 
             var gastos = await gastosQuery.OrderByDescending(g => g.Fecha).ToListAsync();
             ViewBag.Filtro = filtro;
             return View(gastos);
-        }
-
-        // GET: Gastos/Details/5
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null) return NotFound();
-
-            var gasto = await _context.Gastos
-                .Include(g => g.Categoria)
-                .FirstOrDefaultAsync(m => m.Id == id);
-
-            if (gasto == null) return NotFound();
-
-            return View(gasto);
         }
 
         // GET: Gastos/Create
@@ -78,35 +57,56 @@ namespace ExpenseTracker.Controllers
                 TempData["Error"] = "No puedes registrar un gasto porque no se han registrado entradas este mes.";
                 return RedirectToAction("Index");
             }
+            if (!hayEntradaEsteMes)
+            {
+                TempData["Error"] = "No puedes registrar un gasto porque no se han registrado entradas este mes.";
+                return RedirectToAction("Index");
+            }
 
-            ViewData["CategoriaId"] = new SelectList(_context.Categorias.Where(c => !c.Eliminada), "Id", "Titulo");
+
+            ViewData["CategoriaId"] = _context.Categorias
+                .Where(c => !c.Eliminada)
+                .Select(c => new SelectListItem
+                {
+                    Value = c.Id.ToString(),
+                    Text = c.Titulo
+                }).ToList();
+
             return View();
         }
 
         // POST: Gastos/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,CategoriaId,Monto,Fecha,Descripcion")] Gasto gasto)
-        {
+            public async Task<IActionResult> Create([Bind("Id,CategoriaId,Monto,Fecha,Descripcion")] Gasto gasto)
+            {
             var hayEntradaEsteMes = await _context.Entradas
                 .AnyAsync(e => e.Fecha.Month == gasto.Fecha.Month && e.Fecha.Year == gasto.Fecha.Year);
 
             if (!hayEntradaEsteMes)
             {
-                TempData["Error"] = "No puedes registrar un gasto porque no se han registrado entradas en el mes seleccionado.";
-                return RedirectToAction("Index");
+                ModelState.AddModelError(string.Empty, "❌ No puedes registrar un gasto porque no hay entradas registradas en el mismo mes.");
             }
 
             if (ModelState.IsValid)
             {
                 _context.Add(gasto);
                 await _context.SaveChangesAsync();
+                TempData["Mensaje"] = "✅ Gasto registrado correctamente.";
                 return RedirectToAction(nameof(Index));
             }
 
-            ViewData["CategoriaId"] = new SelectList(_context.Categorias.Where(c => !c.Eliminada), "Id", "Titulo", gasto.CategoriaId);
+            ViewData["CategoriaId"] = _context.Categorias
+                .Where(c => !c.Eliminada)
+                .Select(c => new SelectListItem
+                {
+                    Value = c.Id.ToString(),
+                    Text = c.Titulo
+                }).ToList();
+
             return View(gasto);
         }
+
 
         // GET: Gastos/Edit/5
         public async Task<IActionResult> Edit(int? id)
@@ -177,7 +177,7 @@ namespace ExpenseTracker.Controllers
             _context.Gastos.Remove(gasto);
             await _context.SaveChangesAsync();
 
-            TempData["Mensaje"] = $"Se eliminó el gasto de {monto:C} de la categoría '{categoriaNombre}'. El total de gastos se ha ajustado automáticamente.";
+            TempData["Mensaje"] = $"Se eliminó el gasto de {monto:C} de la categoría '{categoriaNombre}'.";
 
             return RedirectToAction(nameof(Index));
         }
@@ -194,19 +194,13 @@ namespace ExpenseTracker.Controllers
                 case "diario":
                     gastosQuery = gastosQuery.Where(g => g.Fecha.Date == hoy);
                     break;
-
                 case "semanal":
                     DateTime inicioSemana = hoy.AddDays(-(int)hoy.DayOfWeek + 1);
                     DateTime finSemana = inicioSemana.AddDays(6);
                     gastosQuery = gastosQuery.Where(g => g.Fecha >= inicioSemana && g.Fecha <= finSemana);
                     break;
-
                 case "mensual":
                     gastosQuery = gastosQuery.Where(g => g.Fecha.Month == hoy.Month && g.Fecha.Year == hoy.Year);
-                    break;
-
-                case "total":
-                default:
                     break;
             }
 
